@@ -1,0 +1,6 @@
+a = input("enter a:")
+b = input("enter b:")
+print("addition:", a+b)
+print("substraction:", a-b)
+print("mul:",a*b)
+print("dev:",a%b)
